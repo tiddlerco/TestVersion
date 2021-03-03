@@ -6,5 +6,8 @@ public class TestVersion {
         System.out.println("第一次commit");
     }
 
+    public void test2(){
+        System.out.println("第二次commit");
+    }
 
 }
