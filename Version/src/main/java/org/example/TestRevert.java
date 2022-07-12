@@ -11,6 +11,7 @@ public class TestRevert {
         System.out.println("第一次commit");
         System.out.println("第二次commit");
         System.out.println("第三次commit");
+        System.out.println("第四次commit");
     }
 
 }
