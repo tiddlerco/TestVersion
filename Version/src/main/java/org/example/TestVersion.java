@@ -7,6 +7,8 @@ public class TestVersion {
 
         System.out.println("第二次commit");
 
+        System.out.println("第三次commit");
+
     }
 
 
