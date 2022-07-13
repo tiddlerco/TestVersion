@@ -10,8 +10,6 @@ public class TestRevert {
     public void test1(){
         System.out.println("第1次commit");
         System.out.println("第2次commit");
-        System.out.println("第3次commit");
-        System.out.println("第4次commit");
     }
 
 }
