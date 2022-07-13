@@ -12,5 +12,6 @@ public class TestRebase {
         System.out.println("第2次commit");
         System.out.println("第3次commit");
         System.out.println("第4次commit");
+        System.out.println("第5次commit");
     }
 }
